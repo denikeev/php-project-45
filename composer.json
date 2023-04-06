@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "Brain Games is a set of five console games",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "denikeev",
+            "email": "enikeev@infomatika.ru"
+        }
+    ],
+    "require": {}
+}
