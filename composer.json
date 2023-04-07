@@ -2,7 +2,6 @@
     "name": "hexlet/code",
     "bin" : ["bin/brain-games"],
     "description": "Brain Games is a set of five console games",
-    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
