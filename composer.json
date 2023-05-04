@@ -1,11 +1,15 @@
 {
   "name": "hexlet/code",
-  "bin" : ["bin/brain-games"],
+  "bin" : [
+    "bin/brain-games",
+    "bin/brain-even"
+  ],
   "description": "Brain Games is a set of five console games",
   "license": "MIT",
   "autoload": {
       "files": [
-          "src/Cli.php"
+          "src/Cli.php",
+          "src/games/ParityCheckGame.php"
       ]
   },
   "authors": [

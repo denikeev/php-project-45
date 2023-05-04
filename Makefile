@@ -12,3 +12,7 @@ lint:
 
 lint-fix:
 				composer exec --verbose phpcbf -- --standard=PSR12 src bin
+
+# Games
+brain-even:
+				./bin/brain-even
