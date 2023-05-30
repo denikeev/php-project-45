@@ -4,7 +4,7 @@ namespace Brain\Games\Games\CalculatorGame;
 
 use function Brain\Games\Engine\startGame;
 
-function getGameData()
+function getGameData(): array
 {
     $operators = ['+', '-', '*'];
     $operator = $operators[rand(0, 2)];

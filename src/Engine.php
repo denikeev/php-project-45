@@ -5,7 +5,7 @@ namespace Brain\Games\Engine;
 use function cli\line;
 use function cli\prompt;
 
-function startGame($exersice, $getGameData)
+function startGame(string $exersice, callable $getGameData)
 {
     $numberOfCorrectAnswers = 3;
 

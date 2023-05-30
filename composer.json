@@ -3,7 +3,8 @@
   "bin" : [
     "bin/brain-games",
     "bin/brain-even",
-    "bin/brain-calc"
+    "bin/brain-calc",
+    "bin/brain-gcd"
   ],
   "description": "Brain Games is a set of five console games",
   "license": "MIT",
@@ -12,7 +13,8 @@
           "src/Cli.php",
           "src/Engine.php",
           "src/games/ParityCheckGame.php",
-          "src/games/CalculatorGame.php"
+          "src/games/CalculatorGame.php",
+          "src/games/GreatestCommonDivisorGame.php"
       ]
   },
   "authors": [

@@ -20,13 +20,18 @@ make brain-even
 
 ## Demos
 
-</details>
+
 <details><summary>brain-even</summary>
 
 [![brain-even](https://asciinema.org/a/1aTLWVqSvLWJ0GgIcQejT5Xp3.svg)](https://asciinema.org/a/1aTLWVqSvLWJ0GgIcQejT5Xp3)  
-
 </details>
+
 <details><summary>brain-calc</summary>
 
 [![brain-calc](https://asciinema.org/a/sOwrFgRX2os1lagY7NAEFwi0V.svg)](https://asciinema.org/a/sOwrFgRX2os1lagY7NAEFwi0V)  
+</details>
 
+<details><summary>brain-gcd</summary>
+
+[![brain-gcd](https://asciinema.org/a/x8iTy6ztkTyow34TrrYI1UCqR.svg)](https://asciinema.org/a/x8iTy6ztkTyow34TrrYI1UCqR)  
+</details>

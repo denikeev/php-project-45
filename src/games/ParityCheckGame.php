@@ -4,7 +4,7 @@ namespace Brain\Games\Games\ParityCheckGame;
 
 use function Brain\Games\Engine\startGame;
 
-function getGameData()
+function getGameData(): array
 {
     $isEven = fn($number) => $number % 2 === 0;
     $randomNumber = rand(0, 100);
