@@ -35,3 +35,8 @@ make brain-even
 
 [![brain-gcd](https://asciinema.org/a/x8iTy6ztkTyow34TrrYI1UCqR.svg)](https://asciinema.org/a/x8iTy6ztkTyow34TrrYI1UCqR)  
 </details>
+
+<details><summary>brain-progression</summary>
+
+[![brain-progression](https://asciinema.org/a/bteBu8H6x8ZhwemgdNPN0cAmj.svg)](https://asciinema.org/a/bteBu8H6x8ZhwemgdNPN0cAmj)  
+</details>

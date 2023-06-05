@@ -4,7 +4,8 @@
     "bin/brain-games",
     "bin/brain-even",
     "bin/brain-calc",
-    "bin/brain-gcd"
+    "bin/brain-gcd",
+    "bin/brain-progression"
   ],
   "description": "Brain Games is a set of five console games",
   "license": "MIT",
@@ -14,7 +15,8 @@
           "src/Engine.php",
           "src/games/ParityCheckGame.php",
           "src/games/CalculatorGame.php",
-          "src/games/GreatestCommonDivisorGame.php"
+          "src/games/GreatestCommonDivisorGame.php",
+          "src/games/ArithmeticProgressionGame.php"
       ]
   },
   "authors": [
